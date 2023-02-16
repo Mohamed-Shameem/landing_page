@@ -22,7 +22,7 @@
     .price_main_head{
       height: 180px;
       padding: 50px 50px 30px 50px;
-      background-color: #2D4DBF;
+      background: linear-gradient(180deg, #2D4DBF 0%, #2877E2 100%);
       border-top-left-radius: 10px;
       border-top-right-radius: 10px;
       text-align: center;
